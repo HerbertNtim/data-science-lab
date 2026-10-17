@@ -1,6 +1,7 @@
 name: /home/mr-man/Desktop/coding/personal/data-science-lab/env
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=5.1=52_gnu
@@ -129,7 +130,7 @@ dependencies:
   - numpy=2.5.3=py314ha8834a8_0
   - numpy-base=2.5.3=py314h7c74580_0
   - openldap=2.6.12=h6d82be7_2
-  - openssl=3.5.9=h1b28b03_0
+  - openssl=3.6.5=h781a0a9_0
   - packaging=26.3=py314h06a4308_0
   - pandas=3.0.6=py314h973aee8_0
   - pandocfilters=1.5.1=py314h06a4308_0
@@ -183,6 +184,7 @@ dependencies:
   - spirv-tools=2026.1=h24d9097_0
   - sqlite=3.53.4=h795bf6d_0
   - stack_data=0.6.3=py314h06a4308_0
+  - stop-words=2018.7.23=pyh9f0ad1d_0
   - tbb=2022.3.0=h698db13_0
   - tbb-devel=2022.3.0=h698db13_0
   - terminado=0.18.1=py314h06a4308_1
