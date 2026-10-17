@@ -1,0 +1,9 @@
+name: data-science-lab
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - notebook
+  - numpy
+prefix: data-science-lab
