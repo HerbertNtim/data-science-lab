@@ -22,6 +22,8 @@ dependencies:
   - certifi=2026.7.22=py314h06a4308_0
   - cffi=2.1.1=py314h3b52fac_0
   - charset-normalizer=3.4.7=py314h06a4308_0
+  - click=8.5.0=py314h06a4308_0
+  - cloudpickle=3.1.2=py314h06a4308_1
   - comm=0.2.3=py314h06a4308_0
   - contourpy=1.4.0=py314he3964cc_0
   - cycler=0.12.1=py314h06a4308_0
@@ -49,6 +51,7 @@ dependencies:
   - ipython_pygments_lexers=1.1.1=py314h06a4308_0
   - jedi=0.20.0=py314h06a4308_0
   - jinja2=3.1.6=py314h06a4308_1
+  - joblib=1.6.0=py314h06a4308_0
   - jpeg=9f=he7e78df_1
   - json5=0.15.0=py314h06a4308_0
   - jsonschema=4.26.0=py314h06a4308_0
@@ -120,6 +123,7 @@ dependencies:
   - nbformat=5.11.0=py314h06a4308_0
   - ncurses=6.6=hfaaeb4e_0
   - nest-asyncio2=1.7.2=py314h06a4308_0
+  - nltk=3.10.3=py314h6fa48dc_0
   - notebook=7.6.3=py314h06a4308_0
   - notebook-shim=0.2.4=py314h06a4308_1
   - numpy=2.5.3=py314ha8834a8_0
@@ -165,6 +169,7 @@ dependencies:
   - qtwebsockets=6.11.0=h03d4248_1
   - readline=8.3=hc2a1206_0
   - referencing=0.37.0=py314h06a4308_0
+  - regex=2026.7.19=py314h47b2149_0
   - requests=2.34.2=py314h06a4308_1
   - rfc3339-validator=0.1.4=py314h06a4308_0
   - rfc3986-validator=0.1.1=py314h06a4308_0
@@ -184,6 +189,7 @@ dependencies:
   - tinycss2=1.5.1=py314h06a4308_0
   - tk=9.0.4=h3840b71_1
   - tornado=6.5.10=py314h47b2149_0
+  - tqdm=4.70.0=py314h6fa48dc_0
   - traitlets=5.15.0=py314h06a4308_0
   - typing-extensions=4.16.0=py314h06a4308_0
   - typing_extensions=4.16.0=py314h06a4308_0
