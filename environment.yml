@@ -1,4 +1,4 @@
-name: data-science-lab
+name: env
 channels:
   - defaults
 dependencies:
@@ -6,4 +6,4 @@ dependencies:
   - pandas
   - notebook
   - numpy
-prefix: data-science-lab
+prefix: env
