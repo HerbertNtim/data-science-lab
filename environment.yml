@@ -81,10 +81,13 @@ dependencies:
   - libffi=3.4.8=h06d3fd0_3
   - libgcc=15.2.0=h69a1729_8
   - libgcc-ng=15.2.0=h166f726_8
+  - libgfortran=15.2.0=h166f726_8
+  - libgfortran5=15.2.0=hc633d37_8
   - libgl=1.7.0=h5eee18b_2
   - libglib=2.88.3=ha16e27a_0
   - libglvnd=1.7.0=h5eee18b_2
   - libglx=1.7.0=h5eee18b_2
+  - libgomp=15.2.0=h4751f2c_8
   - libhwloc=2.12.1=default_hf1bbc79_1000
   - libiconv=1.18=h75a1612_0
   - libkrb5=1.22.2=hbd13c29_0
@@ -119,6 +122,7 @@ dependencies:
   - mkl_random=1.5.0=py314h973aee8_0
   - mysql-common=9.3.0=h9e076cb_6
   - mysql-libs=9.3.0=he5ffe59_6
+  - narwhals=2.23.0=py314h06a4308_0
   - nbclient=0.11.0=py314h06a4308_0
   - nbconvert-core=7.17.1=py314h06a4308_1
   - nbformat=5.11.0=py314h06a4308_0
@@ -175,6 +179,8 @@ dependencies:
   - rfc3339-validator=0.1.4=py314h06a4308_0
   - rfc3986-validator=0.1.1=py314h06a4308_0
   - rpds-py=2026.9.1=py314h553a12c_0
+  - scikit-learn=1.9.1=py314h973aee8_1
+  - scipy=1.18.1=py314h3d0cd3c_0
   - seaborn=0.13.2=py314h06a4308_4
   - send2trash=1.8.3=py314h06a4308_0
   - setuptools=84.0.0=py314h06a4308_0
@@ -188,6 +194,7 @@ dependencies:
   - tbb=2022.3.0=h698db13_0
   - tbb-devel=2022.3.0=h698db13_0
   - terminado=0.18.1=py314h06a4308_1
+  - threadpoolctl=3.5.0=py314h6fa48dc_1
   - tinycss2=1.5.1=py314h06a4308_0
   - tk=9.0.4=h3840b71_1
   - tornado=6.5.10=py314h47b2149_0
